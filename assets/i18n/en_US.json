@@ -1,0 +1,18 @@
+{
+  "app-title": "Personal Expenses",
+  "transaction-list": "Transactions List",
+  "transaction-title": "Title",
+  "transaction-value": "Value",
+  "transaction-selected-date": "Selected date:",
+  "new-transaction": "New transaction",
+  "empty-transaction-list": "No Transactions Added!",
+  "date-format-list": "MMM d y",
+  "date-format-new-transaction": "MM/dd/y",
+  "chart-day-Thu": "Thu",
+  "chart-day-Fri": "Fri",
+  "chart-day-Sat": "Sat",
+  "chart-day-Sun": "Sun",
+  "chart-day-Mon": "Mon",
+  "chart-day-Tue": "Tue",
+  "chart-day-Wed": "Wed"
+}

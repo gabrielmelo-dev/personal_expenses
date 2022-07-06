@@ -1,0 +1,18 @@
+{
+  "app-title": "Despesas Pessoais",
+  "transaction-list": "Lista de Transações",
+  "transaction-title": "Título",
+  "transaction-value": "Valor",
+  "transaction-selected-date": "Data selecionada:",
+  "new-transaction": "Nova transação",
+  "empty-transaction-list": "Nenhuma Transação Adicionada!!",
+  "date-format-list": "d MMM y",
+  "date-format-new-transaction": "dd/MM/y",
+  "chart-day-Thu": "Qui",
+  "chart-day-Fri": "Sex",
+  "chart-day-Sat": "Sab",
+  "chart-day-Sun": "Dom",
+  "chart-day-Mon": "Seg",
+  "chart-day-Tue": "Ter",
+  "chart-day-Wed": "Qua"
+}
