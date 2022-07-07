@@ -51,9 +51,8 @@ class AdaptativeDatePicker extends StatelessWidget {
                 ),
                 TextButton(
                   onPressed: () => _showDatePicker(context),
-                  //toDo
                   child: Text(
-                    'Selecionar Data',
+                    'transaction-select-date'.i18n(),
                     style: TextStyle(
                       color: Theme.of(context).colorScheme.primary,
                       fontWeight: FontWeight.bold,

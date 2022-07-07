@@ -79,8 +79,7 @@ class _TransactionItemState extends State<TransactionItem> {
         trailing: widget.mediaQuery.size.width > 450
             ? TextButton.icon(
           onPressed: () => widget.onRemove(widget.tr.id),
-          //todo i18n
-          label: Text('Excluir'),
+          label: Text('delete-transaction'.i18n()),
           icon: Icon(
             Icons.delete,
             color: Theme.of(context).errorColor,
